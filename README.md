@@ -29,6 +29,18 @@ This project involves the analysis of California housing data to uncover insight
 - **matplotlib**: For creating static, animated, and interactive visualizations.
 - **seaborn**: For making statistical graphics.
 
+## Sample Visualizations
+Here are some sample visualizations created during the analysis:
+
+### Distribution Among Variables
+![Distribution of Housing Prices](train_data_hist.png)
+
+### Heatmap Showing Variable Correlation 
+![Median Income vs. Median House Value](train_data_heatmap.png)
+
+### Geographical Distribution of Median House Values
+![Geographical Distribution of Median House Values](house_location_scatterplot.png)
+
 ## How to Use
 1. Clone the repository:
    ```bash
